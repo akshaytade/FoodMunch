@@ -1,0 +1,79 @@
+*{font-family: 'Libre Baskerville', serif;}
+h1,h2,h3{
+    font-family: 'Libre Baskerville', serif;
+}
+/* *{   font-family: 'Dancing Script';
+    } */
+
+.main{
+    position: absolute;
+    z-index: 2;
+    background-color: rgb(241, 243, 246);
+    height: 2850px;
+    width: 100%;
+    margin-top: 240px;
+}
+#why{
+    background-color: white;
+    height: 280px;
+    width: 350px;
+    padding: 20px;
+    border: solid rgb(201, 200, 200) 0.5px;
+    border-radius: 20px;
+}
+.text{
+    color: rgb(123, 122, 122);
+     font-family: 'Gill Sans';
+}
+.Explore{
+    background-color: rgb(255, 255, 255);
+    height: 800px;
+    width: 100%;
+}
+.exp-menu{
+    background-color: rgb(251, 251, 251);
+    height: 300px;
+    width: 250px;
+    border-radius: 20px;
+}
+.exp-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+.fresh-healthy{
+    background-color: rgb(248, 251, 251);
+    height: 340px;
+    width: 100%;
+    margin-left: 120px;
+}
+.img{
+    height: 50px;
+    width: 50px;
+    margin: 15px;
+}
+.delivery{
+    margin-left: 120px;
+}
+.grad {
+    height: 350px;
+    width: 100%;
+    background-image: radial-gradient(rgb(248, 248, 226) 5%, rgb(247, 248, 193) 15%, rgb(248, 238, 162) 60%);
+  }
+  .icon{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(250, 226, 250);
+    border-radius: 50px;
+    color: rgb(227, 233, 51);
+    padding-top: 24px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 14px
+  }
+  .footer{
+    height: 240px;
+    width: 100%;
+    background-color: rgb(1, 1, 43);
+
+  }
